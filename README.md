@@ -16,4 +16,4 @@ In this paper, we present a novel approach for an automated agent for this type 
 
 As we analyze the results from our experiments and compare the local search algorithms, we show that local search algorithms can be more efficient in Human-Agent negotiation than traditional methods. Moreover, our agent is capable of negotiating efficiently and outperforming the human opponent.
 # Full Paper
-https://link.springer.com/chapter/10.1007/978-3-031-21203-1_39
+- https://link.springer.com/chapter/10.1007/978-3-031-21203-1_39
